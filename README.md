@@ -28,7 +28,7 @@
 ### Transition to Databases
 
 1. If memory is temporary, what do real applications use?
-2. What does "persistent storage" mean?
+2. What does "persistent storage" mean? data that stays saved even after a program stops running or a device is turned offintro-to-react
 3. Why do we need something beyond arrays and objects?
 4. Where do you think the data physically lives in real-world systems?
 5. If we add a third component to Client → Server, what might it be?
